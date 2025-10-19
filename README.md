@@ -9,3 +9,6 @@ Create an HTML site that contains recipes
 
 ### Completion
 I have completed the project; however, it isn't rendering upon publication as it does in VSCode or as expected. The Main page is called index.html. I have also noticed that there are differences when viewing the project in Chrome and Safari.
+
+### Update
+I have completed this portion of the assignment and finally got all the images and links to work appropriately in Safari and Chrome.
