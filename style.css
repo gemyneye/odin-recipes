@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.title {
+    color: red;
+    margin: 30px auto;
+    border: 3px dotted blue;
+    display: inline-block;
+    padding: 10px 20px;
+}
+.recipes {
+    box-sizing: border-box;
+    display: block;
+}
+
+.card {
+    margin-top: 50px;
+}
+.pizza {
+    background-color: yellow;
+    width: 500px;
+    margin-top: 100px;
+    padding: 30px;
+}
+
+.spaghetti {
+    background-color: pink;
+    width: 500px;
+    margin-top: 100px;
+    padding: 30px;
+}
+
+.tacos {
+    background-color: magenta;
+    width: 500px;
+    margin-top: 100px;
+    padding: 30px;
+}
+
+.warning {
+    margin-top: 50px;
+    font-size: 0.9rem;
+}
